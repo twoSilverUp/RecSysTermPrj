@@ -19,3 +19,13 @@ Steam game recommendation system that enables customization according to the use
    
 
   After experimenting with several models focusing on a specific feature (feature weighting-enabled models e.g. FM-based model, DL-based model, AutoML-based model etc..), the optimal model will be selected and used
+
+## Train Dataset
+### User Dataset
+- https://www.kaggle.com/datasets/tamber/steam-video-games/data?select=steam-200k.csv
+### Item Dataset
+- https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+- https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset
+
+## Test Dataset
+- https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data
